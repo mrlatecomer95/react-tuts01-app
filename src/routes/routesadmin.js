@@ -9,7 +9,7 @@ const routesadmin = [
     },
     {
         path: "/admin",
-        name:"Home",
+        name:"Home Testing",
         component:"",
         layout: "",
     }
